@@ -1,0 +1,25 @@
+/*selector universal*/
+*{
+    color: red;
+}  
+/*Selector de etiqueta*/
+p{
+    color: blue;
+}
+/*Selector de clase*/
+
+.titulo-h2{
+    color: green;
+}
+/*Selector ID*/
+#elemento{
+    color: blueviolet;
+}
+/*por Atributo*/
+[kennyn="si"]{
+    color: yellowgreen;
+}
+.h3-p{
+
+    color: red;
+}
